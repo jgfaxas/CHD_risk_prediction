@@ -1,0 +1,8 @@
+name: CHD_risk_prediction
+account: jgfaxas
+server: shinyapps.io
+bundleId: 274049
+url: https://jgfaxas.shinyapps.io/CHD_risk_prediction
+when: 1443219321.86812
+asMultiple: FALSE
+asStatic: FALSE
